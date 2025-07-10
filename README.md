@@ -51,7 +51,8 @@ Built with Python, Tkinter, SpeechRecognition, and pyttsx3.
 
 1. **Run the app:**
    ```bash
-   python smarthome_voice_gui.py
+   python3 smarthome_voice_gui.py
+
    ```
 
 2. **Control devices:**
